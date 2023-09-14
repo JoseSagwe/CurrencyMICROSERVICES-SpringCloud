@@ -1,5 +1,7 @@
 # CurrencyMICROSERVICES-SpringCloud
+
 # Currency Exchange and Conversion Microservices
+
 
 This project is a microservices-based application for currency exchange and conversion. It includes multiple microservices, a naming server, and an API gateway.
 
