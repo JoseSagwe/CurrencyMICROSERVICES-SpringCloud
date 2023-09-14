@@ -35,6 +35,7 @@ The naming server is responsible for service discovery within the microservices 
 
 The logging filter is a global filter within the API gateway that logs incoming requests, providing visibility into request paths.
 
+
 ## Usage
 
 1. Clone the repository to your local machine.
@@ -42,6 +43,7 @@ The logging filter is a global filter within the API gateway that logs incoming 
 2. Start the naming server, currency exchange service, currency conversion service, and API gateway by running their respective Spring Boot applications.
 
 3. Access the API gateway for routing requests to the appropriate services.
+
 
 Example request for currency conversion:
 ```
