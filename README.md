@@ -1,5 +1,5 @@
 # CurrencyMICROSERVICES-SpringCloud
-# Currency Exchange and Conversion Microservices Project
+# Currency Exchange and Conversion Microservices
 
 This project is a microservices-based application for currency exchange and conversion. It includes multiple microservices, a naming server, and an API gateway.
 
@@ -10,7 +10,7 @@ The project is structured as follows:
 - **currency-exchange-service**: A microservice responsible for providing currency exchange rates.
 - **currency-conversion-service**: A microservice for currency conversion using exchange rates from the exchange service.
 - **api-gateway**: The API gateway for routing requests to the appropriate microservices.
-- **naming-server**: A naming server (e.g., Eureka) for service discovery.
+- **naming-server**: A naming server (Eureka) for service discovery.
 - **LoggingFilter**: A global filter for logging requests in the API gateway.
 
 ## Microservices
